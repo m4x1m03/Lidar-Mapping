@@ -12,9 +12,14 @@ Unlike the game, this is using single point scanning whereas the game scans in a
 
 - [X]  Get the ESP32 to work
 - [X]  Set up the Lidar sensor with UART
+
 ![Lidar data](Images/Lidar%20data.png)
+
 - [ ]  Set up gyroscope module to get orientation of Lidar sensor
 - [ ]  Set up 3D environment on a separate computer (Ongoing using Unity)
+
+  ![Unity visualisaztion](Images/Unity%20lidar%20visualization.png)
+
 - [ ]  Send data from ESP32 to 3D environment and map it in 360
 - [ ]  Use gyroscope data to track movement and move throughout the environment (real 3D but might need to switch to something different for accurate position tracking)
 - [ ]  Set up wireless data transmission from ESP32 to 3D environment
