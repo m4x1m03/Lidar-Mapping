@@ -11,7 +11,7 @@ Unlike the game, this is using single point scanning whereas the game scans in a
 ## Development Checklist
 
 - [X]  Get the ESP32 to work
-- [ ]  Set up the Lidar sensor with UART
+- [X]  Set up the Lidar sensor with UART
 - [ ]  Set up gyroscope module to get orientation of Lidar sensor
 - [ ]  Set up 3D environment on a separate computer (Unity?)
 - [ ]  Send data from ESP32 to 3D environment and map it in 360
